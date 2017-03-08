@@ -301,11 +301,6 @@
 		// Loads the dependencies and continues to #start() once done
 		load();
 		
-	keyboard: {
-   	        39: 'next',
-    		37: 'prev'
-	}
-
 	}
 
 	/**
